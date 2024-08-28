@@ -1,0 +1,17 @@
+C:\Users\bikou\source\repos\SuperMarket\SuperMarket\bin\Debug\SuperMarket.exe.config
+C:\Users\bikou\source\repos\SuperMarket\SuperMarket\bin\Debug\SuperMarket.exe
+C:\Users\bikou\source\repos\SuperMarket\SuperMarket\bin\Debug\SuperMarket.pdb
+C:\Users\bikou\source\repos\SuperMarket\SuperMarket\bin\Debug\Guna.UI2.dll
+C:\Users\bikou\source\repos\SuperMarket\SuperMarket\obj\Debug\SuperMarket.csproj.AssemblyReference.cache
+C:\Users\bikou\source\repos\SuperMarket\SuperMarket\obj\Debug\SuperMarket.csproj.SuggestedBindingRedirects.cache
+C:\Users\bikou\source\repos\SuperMarket\SuperMarket\obj\Debug\SuperMarket.Properties.Resources.resources
+C:\Users\bikou\source\repos\SuperMarket\SuperMarket\obj\Debug\SuperMarket.csproj.GenerateResource.cache
+C:\Users\bikou\source\repos\SuperMarket\SuperMarket\obj\Debug\SuperMarket.csproj.CoreCompileInputs.cache
+C:\Users\bikou\source\repos\SuperMarket\SuperMarket\obj\Debug\SuperMarket.csproj.CopyComplete
+C:\Users\bikou\source\repos\SuperMarket\SuperMarket\obj\Debug\SuperMarket.exe
+C:\Users\bikou\source\repos\SuperMarket\SuperMarket\obj\Debug\SuperMarket.pdb
+C:\Users\bikou\source\repos\SuperMarket\SuperMarket\obj\Debug\SuperMarket.LoginForm.resources
+C:\Users\bikou\source\repos\SuperMarket\SuperMarket\obj\Debug\SuperMarket.AdminProduct.resources
+C:\Users\bikou\source\repos\SuperMarket\SuperMarket\obj\Debug\SuperMarket.CustomersForm.resources
+C:\Users\bikou\source\repos\SuperMarket\SuperMarket\obj\Debug\SuperMarket.CustomerView.resources
+C:\Users\bikou\source\repos\SuperMarket\SuperMarket\obj\Debug\SuperMarket.SignupForm.resources
